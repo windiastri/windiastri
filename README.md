@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @windiastri
 - 👀 I’m interested in mobile app development and data visualization
 - 🌱 I’m currently learning react native and python 
-- 💞️ I’m looking to collaborate on data processing and mobile app development
 - 📫 reach me on twitter @windi_astri
 
 <!---
